@@ -5,6 +5,6 @@
 
 # Recent projects:
 
-### DateWizard - Engineered a Spring Boot REST API using Java for date/time validation, format comversion, and Julian Date validation.
+### DateWizard - Engineered a Spring Boot REST API using Java for date/time validation, format conversion, and Julian Date validation.
 ### Guess-the-word-game - A word guessing game using python.
 ### ToDoList - A to-do-list app using Java.
